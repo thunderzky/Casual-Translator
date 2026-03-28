@@ -18,8 +18,6 @@
 ---
 
 
-# 🌍 Translator App
-
 A cross-platform **mobile translation app** built with **React Native** and **Expo**, designed to make multilingual communication smooth and natural.  
 It features intelligent translation powered by OpenAI, **text-to-speech**, **language detection**, and an optional **casual phrasing** mode for more conversational translations.
 
